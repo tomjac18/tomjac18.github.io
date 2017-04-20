@@ -4633,7 +4633,7 @@
 	}
 
 	.spotlight.onscroll-image-fade-in.is-inactive .image img {
-		opacity: 0;
+		/* opacity: 0; */
 	}
 
 /* Spotlight (style1) */
